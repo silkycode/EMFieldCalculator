@@ -1,4 +1,3 @@
-## Phys 122 7686 Spring 2022
 ## Electric Field Predictor
 
 import math
